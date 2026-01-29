@@ -1,4 +1,5 @@
 public class SecondSmallest {
+                                          ///// SecondSmallest Elemnt in an Array
     public static void main(String[] args) {
         int first_Small_Num = Integer.MAX_VALUE;
         int secnd_Small_Num = Integer.MAX_VALUE;
@@ -12,6 +13,5 @@ public class SecondSmallest {
             }
         }
         System.out.println("the Second Smmalest Elemnt is: " + secnd_Small_Num);
-    }
-    
+    }  
 }
